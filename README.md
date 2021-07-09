@@ -1,1 +1,3 @@
-# coffee shop
+# coffeeshop
+
+A Coffee Shop Landing Page (Starbucks Clone)
